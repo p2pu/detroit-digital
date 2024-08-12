@@ -6,7 +6,7 @@ header_image: landing-banner.jpg
 header_text: P2PU & the Ministry of Magic
 header_video: https://www.youtube.com/embed/bQqmIS7WQa8
 hero: |
-  ## Learning circles are coming to Hogwarts!
+  ## Empowering Digital Detroit Digital Literacy!
 
   Join your neighbors at the library to learn something together. Learning circles meet weekly for 6-8 weeks, and are free to join.
 search_title: Learning circles at Hogwarts
