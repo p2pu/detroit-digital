@@ -1,9 +1,12 @@
 title: Digital Detroit
 description: Empowering Detroit through Digital Literacy
 language: en
+collections:
+  - guide
 exclude:
   - p2pu-components
   - p2pu-theme
   - node_modules
   - node_modules/
   - .bundler
+domain: digital-detroit.p2pu.org

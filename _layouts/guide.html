@@ -1,0 +1,33 @@
+---
+layout: base
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4 col-12 col-print-12">
+      <div id="guide-toc" class="d-flex flex-column sticky-top">
+        {% for section in site.guide %}
+        <a href="#guide-section-{{forloop.index }}">{{ section.title }}</a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="col-md-8 col-12 col-print-12">
+      <h1 class="display-4" >{{page.title}}</h1>
+      <div class="guide-text" data-bs-spy="scroll" data-bs-target="#guide-toc" data-bs-offset="0" data-bs-smooth-scroll="true">
+
+        <p class="d-print-none">You can also <a href="{{ site.baseurl }}/assets/uploads/digital-detroit-facilitator-guide.pdf" target="_blank">download</a> this page as a PDF.</p>
+
+        <p class="d-none d-print-block">You can also find this guide online at <a href="https://{{ site.domain }}/guide">{{site.domain}}/guide</a> </p>
+
+        {% for section in site.guide %}
+          <h1 id="guide-section-{{forloop.index }}" class="guide-heading mt-5">{{ section.title }} <a href="#guide-section-{{forloop.index}}">#</a></h1>
+          {{ section.content }}
+        {% endfor %}
+
+      </div>
+    </div>
+  </div>
+
+</div>
+

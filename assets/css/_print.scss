@@ -1,0 +1,27 @@
+@media print {
+
+  body {
+    padding-top: 0 !important;
+  }
+
+  #top-nav, #guide-toc {
+    display: none !important;
+  }
+
+  h1:not(:first-of-type) {
+    break-before: always;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  @page { margin: 0mm 0mm 0mm 0mm;
+    size: 8in 9.5in;
+  }
+
+  .col-print-12{
+    width: 100% !important;
+  }
+
+}
