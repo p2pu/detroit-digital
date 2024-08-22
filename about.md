@@ -31,18 +31,6 @@ faq:
 - q: What is Peer 2 Peer University?
   a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
 
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
-
-
 - q: Can anybody start and facilitate a learning circle?
   a: |
     Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
