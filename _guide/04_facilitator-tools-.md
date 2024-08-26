@@ -59,7 +59,7 @@ Once you complete the creation process and publish your learning circle (either 
 
 You’ll receive a confirmation email, which includes the link to your sign-up page and a number of other resources. The P2PU Welcome Committee (a mix of P2PU staff and community members) will be copied on the email; if you asked for any help on Step 5, someone will reach out to ensure that your concerns are addressed before the learning circle begins. 
 
-You can watch a video about the process here: [https://youtu.be/860ITkW8WmU](https://youtu.be/860ITkW8WmU)
+
 
 ## [Management Page](https://docs.p2pu.org/tools-and-resources/tools-for-learning-circles/managing-learning-circles)
 

@@ -22,15 +22,17 @@ To create DIY Flyers, use our [Learning Circle Promo Kit ](https://docs.google.c
 ## Certificates & Accreditation
 
 P2PU does not officially issue any kind of accreditation or formal education certificates for participation in learning circles. Some courses offer various types of endorsement though learners often have to pay the course provider for a copy.
-A number of facilitators like to give certificates at the end of a learning circle to help connote a sense of achievement and stronger connection between the library/learning center and learner. 
+A number of facilitators like to give certificates at the end of a learning circle to help promote a sense of achievement and stronger connection between the library/learning center and learner. 
 
 If you want to recognize and celebrate learners’ achievements, you can use or customize our[ ](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing)[certificate template](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing).
 
 
 **Message Templates**
 In addition to flyers and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use or modify to advertise your learning circle:
-Internal email template
-Got a mailing list for your organization? Here's a starting template for finding potential learners:
+
+**Internal email template**
+*Got a mailing list for your organization? Here's a starting template for finding potential learners:*
+
 Are you interested in learning about [topic] but don’t want to study alone? Why not join our learning circle and study face-to-face with your peers?
 From [date] to [date] we’ll be meeting at [venue] to work together through a course on [subject] in a supportive, peer-based group. We won’t have a teacher—we’ll use the online course and our personal experiences to learn together.
 There are no prerequisites for the course, but access to a laptop and some experience of using the internet would be helpful.

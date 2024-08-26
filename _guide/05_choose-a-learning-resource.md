@@ -2,7 +2,7 @@
 title: "Choose a Learning Resource"
 ---
 
-Creating a learning circle with our tools can be very quick once you have gathered the information you need. Choosing a course can be the hardest part. Here are some tips to help.
+Creating a learning circle with our tools can be very quick once you have gathered the information you need. For this program we will be using Tech Goes Home Curriculum as our course material.  However we hope that you will want to use your new facilitation skills again so we have also compiled some tips on how to choose other learning resources. 
 
 Many facilitators use free online courses for subject material because they are designed in a linear format that is easily adaptable to group study. While these so-called MOOCs ("Massive open online courses") work quite well as the content basis for learning circles, there is a broad world of openly-available information that comes in all shapes and sizes. With some time and practice, nearly any learning resource can be adapted to the learning circle model, from YouTube playlists to books.
 
@@ -21,7 +21,7 @@ You can browse them here: [Topic Guides](https://www.p2pu.org/en/topics/)
 
 P2PU maintains a space where the learning circle community can collect and share open courses found from across the web. With a few exceptions, P2PU does not create or own this content—it is primarily a curated list. Materials added to this list are moderated and removed if they are duplicated, no longer available, or otherwise inappropriate for learning circles.
 
-To view popular courses used by Ugandan facilitators, visit: [https://uganda.p2pu.org/courses?keywords=uganda&languages=en&order](https://uganda.p2pu.org/courses?keywords=uganda&languages=en&order)
+
 
 ## Adding New Resources
 
@@ -39,14 +39,9 @@ Facilitators are not limited to the materials in the P2PU[ ](https://www.p2pu.or
 ## [Facilitator Guides](https://docs.p2pu.org/courses/facilitator-guides)
 
 In some cases, other facilitators may have worked through a course and documented their process for working through the materials using a **facilitator guide**. New facilitators can benefit by using a facilitator guide, which includes the notes and session order of a previous facilitator.  Facilitator guides can also be used as a way to document multiple resources that can be used for a learning circle instead of one online course.
- 
-Here are two examples of Facilitator Guides built specifically for Uganda:
-- [Liquid Soap Production (Herman's Guide)](https://docs.google.com/document/d/1FxlyVysXYJM13blXWeRThr6vQ_C9-WHFGRJwPDnCI5s/edit#heading=h.ya4rcel7ao)
-- [Facilitator Guide: Fundamentals of Public Speaking](https://docs.google.com/document/d/1ZgD4PxbDdcrJinc2c6wsw01dYOdhD42v6j2-4VVbrGk/edit#heading=h.c6klikgukw8h)
 
-Liquid Soap Production is a custom course built from resources found by a facilitator, and the Fundamentals of Public Speaking  is a guide to using an existing online course.
 
-You can choose the option to or [view these search results](https://uganda.p2pu.org/courses?facilitator_guide=true&keywords=uganda&languages=en&order).
+You can choose any course that already has a guide by  [viewing these search results](https://www.p2pu.org/en/learning-resources/?facilitator_guide=true&languages=en&order).
 
 ![kix.lj8yoee4b7k1](assets/uploads/kix.lj8yoee4b7k1.png)
 
