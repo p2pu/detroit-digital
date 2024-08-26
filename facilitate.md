@@ -1,7 +1,8 @@
 ---
 title: Facilitate
-welcome: |
-    (Partner name) is bringing learning circles to (city/country) in 2020! 
+welcome:
+ 
+    The Rocket Community Fund is bringing learning circles focused on digital literacy to Detroit in 2024! 
 
     Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
 

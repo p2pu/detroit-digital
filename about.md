@@ -1,7 +1,7 @@
 ---
 title: About
 about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
+    The Rocket Community Fund is partnering Tech Goes Home (TGH) of Boston, Peer to Peer University (P2PU), United Way of Southeastern Michigan (UWSEM) and Black Tech Saturdays (BTS) to deliver in-person  comprehensive digital literacy training to 200 Detroit residents. This initiative aims to bridge the digital divide, enhance employability, and foster economic empowerment within Detroit's underserved communities.
 faq_title: Frequently asked questions
 faq:
 - q: What is a learning circle?
@@ -33,7 +33,7 @@ faq:
 
 - q: Can anybody start and facilitate a learning circle?
   a: |
-    Yes! Learning circles are free to create, all you need is an account with P2PU. We have begun to create some [LANGUAGE]-language resources for facilitators, which you can view and contribute to [here](/facilitate)
+    Yes! Learning circles are free to create, all you need is an account with P2PU. We have resources for facilitators which you can view and contribute to [here](/facilitate)
 
 layout: about
 bundles:

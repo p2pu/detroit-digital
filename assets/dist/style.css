@@ -13232,6 +13232,12 @@ footer.home-footer .toc a, footer.home-footer .toc .container > div {
   height: 1.5em;
 }
 
+.hero-header #intro-section .intro-text > div {
+  padding: 30px;
+  background: white;
+  border-radius: 8px;
+}
+
 @media (max-width: 992px) {
   #top-nav .navbar-brand {
     order: 0;
