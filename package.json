@@ -1,41 +1,46 @@
 {
-  "name": "erasmus-partner-site",
+  "name": "digital-detroit",
   "description": "Unless indicated otherwise, all content is licensed CC-BY-SA and all code is licensed under the MIT license",
   "version": "1.0.0",
   "private": true,
-  "main": "index.js",
+  "main": "",
   "dependencies": {
+    "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
     "@babel/preset-react": "^7.18.6",
+    "@babel/runtime": "^7.9.2",
+    "@fortawesome/fontawesome-free": "^6.2.1",
     "@popperjs/core": "^2.11.6",
     "assets-webpack-plugin": "^7.1.1",
-    "autoprefixer": "^10.4.13",
-    "axios": "^0.18.0",
-    "babel-loader": "^9.1.2",
-    "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "axios": "^1.2.6",
+    "babel-loader": "^8.1.0",
     "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.5.0",
+    "chai": "^4.2.0",
     "css-loader": "^6.7.3",
+    "css-minimizer-webpack-plugin": "^4.2.2",
+    "file-loader": "^6.0.0",
     "jsonp": "^0.2.1",
+    "material-icons": "^1.13.1",
     "mini-css-extract-plugin": "^2.7.2",
-    "moment": "^2.24.0",
+    "mocha": "^10.2.0",
     "p2pu-components": "file:p2pu-components",
     "p2pu-theme": "file:p2pu-theme",
-    "postcss-loader": "^7.0.2",
-    "promise-polyfill": "^8.1.0",
-    "rc-time-picker": "^3.6.4",
+    "puppeteer-core": "^19.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-telephone-input": "^5.0.0",
+    "react-slick": "^0.30.2",
+    "react-tooltip": "^4.2.21",
     "resolve-url-loader": "^5.0.0",
     "sass": "^1.57.1",
     "sass-loader": "^13.2.0",
+    "serve": "^14.2.0",
+    "slick-carousel": "^1.8.1",
     "style-loader": "^3.3.1",
-    "ttag": "^1.7.24",
+    "ttag": "^1.8.7",
     "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1",
-    "whatwg-fetch": "^3.0.0"
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
     "webpack-bundle-analyzer": "^3.3.2"
@@ -48,18 +53,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p2pu/zlb.git"
+    "url": "git+https://github.com/p2pu/detroit-digital.git"
   },
   "author": "",
   "license": "MIT",
   "babel": {
     "presets": [
-      "@babel/react"
+      "@babel/preset-react"
     ],
-    "plugins": [
-      "transform-react-jsx",
-      "transform-class-properties"
-    ]
+    "plugins": []
   },
   "bugs": {
     "url": "https://github.com/p2pu/zlb/issues"
