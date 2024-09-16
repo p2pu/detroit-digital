@@ -55,7 +55,7 @@ class App extends React.Component {
         }
         <div className={this.state.selectedLearningCircle?'d-none':''}>
           <SearchProvider
-            origin="http://localhost:8000"
+            origin="https://learningcircles.p2pu.org"
             initialState={{team_id: 46}}
             searchSubject={'learningCircles'}
             locale="en"
