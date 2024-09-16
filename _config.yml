@@ -8,5 +8,6 @@ exclude:
   - p2pu-theme
   - node_modules
   - node_modules/
+  - gdoc
   - .bundler
 domain: digital-detroit.p2pu.org

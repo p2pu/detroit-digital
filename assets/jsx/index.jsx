@@ -1,5 +1,5 @@
-import React from 'react';
-import { render } from 'react-dom';
+import React, { useEffect, useState } from "react";
+import { createRoot } from 'react-dom/client';
 import {t} from 'ttag';
 
 import SearchProvider from 'p2pu-components/dist/Search/SearchProvider';
@@ -14,15 +14,6 @@ import DefaultNoResults from 'p2pu-components/dist/Search/DefaultNoResults';
 const CustomSearch = (props) => {
   return (
     <>
-      <div className="search-fields row g-0">
-        <div className="bg-white shadow col-12">
-          <SearchBar 
-            placeholder={t`Keyword, organization, facilitator, etc...`}
-            {...props} 
-          />
-        </div>
-      </div>
-      <SearchTags {...props} />
       <BrowseLearningCircles
         {...props}
         NoResultsComponent={DefaultNoResults}
@@ -64,7 +55,7 @@ class App extends React.Component {
         }
         <div className={this.state.selectedLearningCircle?'d-none':''}>
           <SearchProvider
-            origin="https://learningcircles.p2pu.org"
+            origin="http://localhost:8000"
             initialState={{team_id: 46}}
             searchSubject={'learningCircles'}
             locale="en"
@@ -79,4 +70,66 @@ class App extends React.Component {
   }
 };
 
-render(<App />, document.getElementById("learning-circle-search"));
+const lcRoot = createRoot(document.getElementById("learning-circle-search"))
+lcRoot.render(<App />)
+
+
+const FacilitatorCard = ({image, name, bio})  => {
+  return (
+    <div className="facilitator-card col-8 offset-2 col-lg-4 offset-lg-4">
+      <img className="rounded-circle" width="200" height="200" src={image}/>
+      <div className="profile">
+        <h2>{name}</h2>
+        <p>{bio}</p>
+      </div>
+    </div>
+  )
+}
+
+const Facilitators = (props) => {
+
+  // `${API_ORIGIN}/api/teams/${TEAM_ID}/`
+  const [facilitators, setFacilitators] = useState([])
+  useEffect(() => {
+    fetch(`${props.API_ORIGIN}/api/teams/${props.teamId}/`).then(resp => {
+      // TODO errors and stuff
+      return resp.json();
+    }).then(data => {
+      setFacilitators(data.item.facilitators);
+    })
+  }, [])
+
+  return (
+    <div id="carouselExampleFade" class="carousel carousel-dark slide">
+      <div class="carousel-inner">
+        { 
+          facilitators.map((fa, idx) =>
+            <div class={"carousel-item" + (idx==0?" active":"")} >
+              <FacilitatorCard 
+                image={ fa.avatar_url?fa.avatar_url:"https://placehold.it/200x200" }
+                name={fa.first_name}
+                bio={fa.bio}
+              />
+            </div>
+          )
+        }
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  )
+}
+
+const facilitatorsRoot = createRoot(document.getElementById("team-facilitators"))
+facilitatorsRoot.render(
+  <Facilitators 
+    API_ORIGIN='https://learningcircles.p2pu.org'
+    teamId='46'
+  />
+)
