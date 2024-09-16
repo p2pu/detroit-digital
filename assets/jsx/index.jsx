@@ -106,7 +106,7 @@ const Facilitators = (props) => {
           facilitators.map((fa, idx) =>
             <div class={"carousel-item" + (idx==0?" active":"")} >
               <FacilitatorCard 
-                image={ fa.avatar_url?fa.avatar_url:"https://placehold.it/200x200" }
+                image={ fa.avatar_url?fa.avatar_url:"https://learningcircles.p2pu.org/static/images/avatars/p2pu_avatar_blue.png" }
                 name={fa.first_name}
                 bio={fa.bio}
               />
