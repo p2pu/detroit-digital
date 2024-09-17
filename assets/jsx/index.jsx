@@ -101,11 +101,11 @@ const Facilitators = (props) => {
   }, [])
 
   return (
-    <div id="carouselExampleFade" class="carousel carousel-dark slide">
-      <div class="carousel-inner">
+    <div id="carouselExampleFade" className="carousel carousel-dark slide">
+      <div className="carousel-inner">
         { 
           facilitators.map((fa, idx) =>
-            <div class={"carousel-item" + (idx==0?" active":"")} >
+            <div className={"carousel-item" + (idx==0?" active":"")} >
               <FacilitatorCard 
                 image={ fa.avatar_url?fa.avatar_url:"https://learningcircles.p2pu.org/static/images/avatars/p2pu_avatar_blue.png" }
                 name={fa.first_name}
@@ -115,13 +115,13 @@ const Facilitators = (props) => {
           )
         }
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
+      <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+      <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span className="visually-hidden">Previous</span>
       </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
+      <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+        <span className="carousel-control-next-icon" aria-hidden="true"></span>
+        <span className="visually-hidden">Next</span>
       </button>
     </div>
   )
