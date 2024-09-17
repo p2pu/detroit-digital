@@ -12,6 +12,12 @@ resources:
 - title: Detroit Facilitation Guide
   image: /assets/img/detroit-guide.png
   url: /guide
+- title: Tech Goes Home Instructor Handbook
+  image: /assets/img/tgh-instructor-handbook.png
+  url: https://www.techgoeshome.org/trainer-handbook
+- title: Tech Goes Home Instructor Resources
+  image: /assets/img/tgh-instructor-resources.png
+  url: https://www.techgoeshome.org/trainers-content
 - title: Facilitator forum
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
