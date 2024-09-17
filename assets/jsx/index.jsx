@@ -7,16 +7,17 @@ import LearningCircleSignup from 'p2pu-components/dist/LearningCircleSignup/Lear
 import SearchBar from 'p2pu-components/dist/Search/SearchBar';
 import SearchTags from 'p2pu-components/dist/Search/SearchTags';
 import BrowseLearningCircles from 'p2pu-components/dist/LearningCircles/Browse';
-import DefaultNoResults from 'p2pu-components/dist/Search/DefaultNoResults';
 
 //import "p2pu-components/dist/build.css"
+
+const NoNoResultsComponent = props => <></>
 
 const CustomSearch = (props) => {
   return (
     <>
       <BrowseLearningCircles
         {...props}
-        NoResultsComponent={DefaultNoResults}
+        NoResultsComponent={NoNoResultsComponent}
       />
     </>
   );
@@ -60,7 +61,7 @@ class App extends React.Component {
             searchSubject={'learningCircles'}
             locale="en"
             defaultImageUrl="/assets/img/p2pu-ogimg-default.jpg"
-            onSelectResult={this.handleLearningCircleSelection}
+            //onSelectResult={this.handleLearningCircleSelection}
           >
             <CustomSearch />
           </SearchProvider>
