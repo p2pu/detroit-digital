@@ -11,10 +11,11 @@
       gtag('js', new Date());
       gtag('config', 'G-4M0DYTDBL1');
     </script>
-
     <title>{{site.title}}{% if page.title %} | {{page.title}}{% endif %}</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% include og.html %}
+
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
           rel="stylesheet">
     {% if site.description %}
