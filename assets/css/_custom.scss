@@ -43,7 +43,8 @@ section {
       object-fit: cover;
     }
 
-    h1 {
+    h1, img.bottom-logo {
+      object-fit: contain;
       position: absolute;
       bottom: 0;
       width: 100%;
@@ -51,6 +52,7 @@ section {
       background-color: rgba(0, 0, 0, 0.5);
       margin: 0px !important;
       padding: 1.5rem;
+      height: 12vw;
     }
   }
 
@@ -95,7 +97,7 @@ section {
       .intro-text {
         padding-top: 10px;
         > div {
-          padding: 30px;
+          padding: 30px 0;
           padding-bottom: 0;
 
           h1, h2 {
@@ -162,7 +164,7 @@ section {
       padding-bottom: 30px;
 
       .intro-text {
-        padding: 30px;
+        padding: 30px 0;
         background: $white;
         color: $gray-darker;
         padding-right: calc(8.35% + 30px);
@@ -317,7 +319,7 @@ footer.home-footer {
 .hero-header {
   #intro-section {
     .intro-text > div {
-      padding: 30px;
+      padding: 30px 0;
       background: white;
       border-radius: 8px;
     }
@@ -351,6 +353,11 @@ footer.home-footer {
         min-height: 66vh;
       }
 
+      img.bottom-logo{
+        min-height: unset;
+        height: 22vh;
+      }
+
       .header-text {
         flex-direction: column;
         font-size: 15vh;
@@ -368,7 +375,7 @@ footer.home-footer {
         position: relative;
         margin: 0;
         > div {
-          padding: 30px;
+          padding: 30px 0;
           background: white;
           border-radius: 8px;
         }

@@ -13028,7 +13028,8 @@ section {
   height: 65vh;
   object-fit: cover;
 }
-.hero-header #header-img h1, .hero-header #header-img .h1 {
+.hero-header #header-img h1, .hero-header #header-img .h1, .hero-header #header-img img.bottom-logo {
+  object-fit: contain;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -13036,6 +13037,7 @@ section {
   background-color: rgba(0, 0, 0, 0.5);
   margin: 0px !important;
   padding: 1.5rem;
+  height: 12vw;
 }
 .hero-header #page-header {
   position: relative;
@@ -13072,7 +13074,7 @@ section {
   padding-top: 10px;
 }
 .hero-header #page-header #intro-section .intro-text > div {
-  padding: 30px;
+  padding: 30px 0;
   padding-bottom: 0;
 }
 .hero-header #page-header #intro-section .intro-text > div h1, .hero-header #page-header #intro-section .intro-text > div .h1, .hero-header #page-header #intro-section .intro-text > div h2, .hero-header #page-header #intro-section .intro-text > div .h2 {
@@ -13127,7 +13129,7 @@ section {
   padding-bottom: 30px;
 }
 .pattern-header #page-header #intro-section .intro-text {
-  padding: 30px;
+  padding: 30px 0;
   background: #fff;
   color: #646462;
   padding-right: calc(8.35% + 30px);
@@ -13240,7 +13242,7 @@ footer.home-footer .toc a, footer.home-footer .toc .container > div {
 }
 
 .hero-header #intro-section .intro-text > div {
-  padding: 30px;
+  padding: 30px 0;
   background: white;
   border-radius: 8px;
 }
@@ -13264,6 +13266,10 @@ footer.home-footer .toc a, footer.home-footer .toc .container > div {
   .hero-header #header-img img {
     min-height: 66vh;
   }
+  .hero-header #header-img img.bottom-logo {
+    min-height: unset;
+    height: 22vh;
+  }
   .hero-header #header-img .header-text {
     flex-direction: column;
     font-size: 15vh;
@@ -13279,7 +13285,7 @@ footer.home-footer .toc a, footer.home-footer .toc .container > div {
     margin: 0;
   }
   .hero-header #intro-section .intro-text > div {
-    padding: 30px;
+    padding: 30px 0;
     background: white;
     border-radius: 8px;
   }
