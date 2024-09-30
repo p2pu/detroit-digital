@@ -15,6 +15,22 @@ bundles:
   </div>
 </section>
 
+<section id="logos" data-aos="slide-up">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>Supported by</h2>
+      </div>
+      <div class="logo-row">
+        {% for logo in page.logos %}
+        <img src="{{site.baseurl}}{{logo.url}}" alt="{{logo.alt}}">
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <section id="faq">
   <div class="container">
     <div class="row">

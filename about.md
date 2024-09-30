@@ -2,6 +2,19 @@
 title: About
 about: |
     The Rocket Community Fund is partnering Tech Goes Home (TGH) of Boston, Peer to Peer University (P2PU), United Way of Southeastern Michigan (UWSEM) and Black Tech Saturdays (BTS) to deliver in-person  comprehensive digital literacy training to 200 Detroit residents. This initiative aims to bridge the digital divide, enhance employability, and foster economic empowerment within Detroit's underserved communities.
+logos:
+- url: /assets/img/tgh-logo.webp
+  alt: Tech Goes Home logo
+- url: /assets/img/bts-logo.png
+  alt: Black Tech Saturdays logo
+- url: /assets/img/uw-logo.svg
+  alt: United logo
+- url: /assets/img/detroit-logo.svg
+  alt: City of Detroit logo
+- url: /assets/img/p2pu-logo-p.svg
+  alt: P2PU logo
+- url: /assets/img/rocket-logo.svg
+  alt: Rocket logo
 faq_title: Frequently asked questions
 faq:
 - q: What is a learning circle?

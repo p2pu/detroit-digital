@@ -498,3 +498,15 @@ footer.home-footer {
     }
   }
 }
+
+#logos img {
+  height: 100px;
+  margin: 1em;
+}
+
+.logo-row {
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+}
+
