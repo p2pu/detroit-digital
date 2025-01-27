@@ -13028,7 +13028,7 @@ section {
   height: 65vh;
   object-fit: cover;
 }
-.hero-header #header-img h1, .hero-header #header-img .h1, .hero-header #header-img img.bottom-logo {
+.hero-header #header-img img.bottom-logo {
   object-fit: contain;
   position: absolute;
   bottom: 0;
@@ -13063,27 +13063,12 @@ section {
 .hero-header #page-header #intro-section {
   padding-bottom: 1em;
 }
-.hero-header #page-header #intro-section h1, .hero-header #page-header #intro-section .h1 {
-  min-height: 100px;
-  padding-right: 30px;
-  padding-left: 30px;
-  font-size: calc(24px + 1vw);
-  line-height: 1.2;
-  margin-top: 0.5rem;
-}
 .hero-header #page-header #intro-section .intro-text {
   padding-top: 10px;
 }
 .hero-header #page-header #intro-section .intro-text > div {
   padding: 30px 0;
   padding-bottom: 0;
-}
-.hero-header #page-header #intro-section .intro-text > div h1, .hero-header #page-header #intro-section .intro-text > div .h1, .hero-header #page-header #intro-section .intro-text > div h2, .hero-header #page-header #intro-section .intro-text > div .h2 {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-  line-height: 1.2;
 }
 .hero-header #page-header #intro-section .intro-text #attribution {
   padding-top: 0;

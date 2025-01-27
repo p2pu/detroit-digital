@@ -1,12 +1,30 @@
 ---
-title: Facilitate
-welcome:
- 
-    The Rocket Community Fund is bringing learning circles focused on digital literacy to Detroit in 2024! 
+title: Become a Digital Skills Detroit Community Facilitator
+welcome: |
+    The **Digital Skills Detroit Program** is seeking **10 volunteer facilitators** to lead digital skills training sessions across Detroit. This initiative, supported by the **Rocket Community Fund**, aims to equip 250 Detroit residents with essential digital skills and devices to help them achieve their personal and professional goals.
 
-    Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
+    - **Tech Goes Home** will provide devices to learners who complete 15 hours of training.
+    - **Peer 2 Peer University (P2PU)** will offer facilitator training to help community members deliver flexible training experiences tailored to local needs.
+    
+    ## Facilitator Expectations
+    - Participate in a **two-day training session** on **February 11th and 12th, 2025**.
+    - Deliver **15 hours of training** to learners using the provided course materials.
+    - Collaborate with program staff to order and distribute devices to participants.
+    - Report weekly on course sessions and learner attendance.
+    - Start **learning circles** between **March and June 2025**.
 
-    If you’re interested in participating, explore the resources below and contact us to get involved!
+    We especially encourage facilitators who already have connections to groups that could benefit, such as **church groups, block clubs**, or other community organizations.
+
+    ## Facilitators will receive:
+    - A **Chromebook** to keep after completing the program.
+    - A **$500 stipend** as a thank-you for your efforts.
+
+    Become a facilitator for the Digital Skills Detroit Project by [signing up for the Facilitator Training](https://forms.gle/v9Qj9gYtd3SeT9dU9)
+
+    For questions, please contact **[digitaldetroit@p2pu.org](mailto:digitaldetroit@p2pu.org)**.
+
+    **Sign Up Today!**
+
 resources_title: Facilitator resources
 resources:
 - title: Detroit Facilitation Guide
