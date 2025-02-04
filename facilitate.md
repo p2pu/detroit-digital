@@ -27,6 +27,9 @@ welcome: |
 
 resources_title: Facilitator resources
 resources:
+- title: Facilitator Training Resources
+  image: /assets/img/training-resources.png
+  url: /training-resources
 - title: Detroit Facilitation Guide
   image: /assets/img/detroit-guide.png
   url: /guide
