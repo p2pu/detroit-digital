@@ -1,7 +1,7 @@
 ---
 title: Become a Digital Skills Detroit Community Facilitator
 welcome: |
-    Please contact **[digitaldetroit@p2pu.org](mailto:digitaldetroit@p2pu.org)** if you'd like to be a facilitator.
+    Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdFyL8s8R2XPwgqhorjD9VNGCPUizDQaE0ywOawOw4Ck8Y-mA/viewform?usp=dialog) or contact **[digitaldetroit@p2pu.org](mailto:digitaldetroit@p2pu.org)** if you'd like to be a facilitator.
 
 resources_title: Facilitator resources
 resources:
