@@ -1,7 +1,31 @@
 ---
-title: Become a Digital Skills Detroit Community Facilitator
+title: Host a Digital Skills Detroit Learning Circle
 welcome: |
-    Please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdFyL8s8R2XPwgqhorjD9VNGCPUizDQaE0ywOawOw4Ck8Y-mA/viewform?usp=dialog) or contact **[digitaldetroit@p2pu.org](mailto:digitaldetroit@p2pu.org)** if you'd like to be a facilitator.
+    The Digital Skills Detroit Program partners with community organizations, libraries, churches, workforce centers, and nonprofits to bring free digital skills training directly to Detroit residents.
+
+    We make it easy for host sites and facilitators to get started.
+
+    ## What Digital Skills Detroit Provides
+
+    - A ready-to-use digital skills curriculum, adaptable for different skill levels
+    - Training and support for facilitators
+    - Devices for participants who complete 15 hours of training
+    - Program guidance, materials, and ongoing support
+
+    ## What Host Sites Provide
+
+    - A computer lab or learning space with reliable internet access
+    - A consistent schedule to host learning circles
+    - On-site support to help welcome and engage participants
+    - Staff or volunteers to facilitate the learning*
+
+    ***\*Digital Skills Detroit may be able to provide a facilitator for sites that meet all other hosting requirements.***
+
+    If you have a site and would like to have P2PU Staff facilitate please complete [this form](https://forms.gle/NCzRR5ngb5ajRhqK8).
+
+    By hosting a Digital Skills Detroit learning circle, your organization helps close the digital divide while empowering community members with practical, life-changing skills.
+
+    **👉 Contact us to learn more about hosting a Digital Skills Detroit learning circle at digitaldetroit@p2pu.org**
 
 resources_title: Facilitator resources
 resources:
@@ -11,12 +35,6 @@ resources:
 - title: Detroit Facilitation Guide
   image: /assets/img/detroit-guide.png
   url: /guide
-- title: Tech Goes Home Instructor Handbook
-  image: /assets/img/tgh-instructor-handbook.png
-  url: https://www.techgoeshome.org/trainer-handbook
-- title: Tech Goes Home Instructor Resources
-  image: /assets/img/tgh-instructor-resources.png
-  url: https://www.techgoeshome.org/trainers-content
 - title: Facilitator forum
   image: /assets/img/discourse.png
   url: https://community.p2pu.org
