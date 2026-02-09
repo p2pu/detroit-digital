@@ -3,6 +3,8 @@ title: About
 about: |
     The Rocket Community Fund is partnering with Peer to Peer University (P2PU) to deliver in-person  comprehensive digital literacy training to 200 Detroit residents. This initiative aims to bridge the digital divide, enhance employability, and foster economic empowerment within Detroit's underserved communities.
 logos:
+- url: /assets/img/dplf-logo.png
+  alt: DPL Foundation
 - url: /assets/img/p2pu-logo-p.svg
   alt: P2PU logo
 - url: /assets/img/detroit-logo.svg
