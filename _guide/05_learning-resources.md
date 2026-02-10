@@ -1,10 +1,13 @@
 ---
-title: "Choose a Learning Resource"
+title: "Learning Resources"
 ---
 
-Creating a learning circle with our tools can be very quick once you have gathered the information you need. For this program we will be using Tech Goes Home Curriculum as our course material.  However we hope that you will want to use your new facilitation skills again so we have also compiled some tips on how to choose other learning resources. 
+Digital Skills Detroit is about helping learners gain foundational digital literacy skills that help support them to be digital citizens; who are able to use the internet and technology to support their personal well being, education and employability and engagement.  To that end we have created multiple modules to help get learners started. 
+## 
 
-Many facilitators use free online courses for subject material because they are designed in a linear format that is easily adaptable to group study. While these so-called MOOCs ("Massive open online courses") work quite well as the content basis for learning circles, there is a broad world of openly-available information that comes in all shapes and sizes. With some time and practice, nearly any learning resource can be adapted to the learning circle model, from YouTube playlists to books.
+## [Digital Skills Curriculum](https://drive.google.com/drive/folders/1SWB1FzapLkZCjkZQ9LiH1ZXrJlGkFy7H?usp=sharing)
+
+The Basic Computer and Online Navigation Modules are required to be completed by all learners.  The Homebuyers, Telehealth and Mobile Digital Literacy modules can be covered according to learner interest.  Facilitators can also add or cover additional content that they already have available or that is desirable to their community of learners. 
 
 Regardless of where the content comes from, there is no such thing as a perfect course! No matter how well the content is arranged, a course will never know you as a person, help you make decisions, or tell you when you need to look for answers somewhere else. The learning circle format and the power of peer learning do a lot of work to create a great learning experience. At its best, a course is a starting point for a community of learners to reach a common goal, wherever that path may lead.
 
@@ -20,8 +23,6 @@ You can browse them here: [Topic Guides](https://www.p2pu.org/en/topics/)
 ## P2PU learning resource library
 
 P2PU maintains a space where the learning circle community can collect and share open courses found from across the web. With a few exceptions, P2PU does not create or own this content—it is primarily a curated list. Materials added to this list are moderated and removed if they are duplicated, no longer available, or otherwise inappropriate for learning circles.
-
-
 
 ## Adding New Resources
 
@@ -46,6 +47,4 @@ You can choose any course that already has a guide by  [viewing these search res
 ![kix.lj8yoee4b7k1](assets/uploads/kix.lj8yoee4b7k1.png)
 
 To create your own facilitator guide, you can use our template: [⭐ P2PU Facilitator Guide Template](https://docs.google.com/document/d/1ozi0IWRkhSamBxYD4l11Dy86TaVhMDiIYZhqFYNGxPM/copy)
-
-For more tips on choosing a course, visit  [Evaluating Courses - P2PU Knowledge Base](https://docs.p2pu.org/courses/evaluating-courses)
 

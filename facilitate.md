@@ -29,6 +29,9 @@ welcome: |
 
 resources_title: Facilitator resources
 resources:
+- title: Detroit Facilitation Guide
+  image: /assets/img/detroit-guide.png
+  url: /guide
 - title: Facilitator forum
   image: /assets/img/discourse.png
   url: https://community.p2pu.org

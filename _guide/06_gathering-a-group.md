@@ -17,15 +17,7 @@ Once you’ve established your personal goals for a learning circle, you’ll wa
 
 Our Learning Circle Promo Kit contains flyer templates, icons, patterns, and tips for collaging images in Google Slides.
 
-To create DIY Flyers, use our [Learning Circle Promo Kit ](https://docs.google.com/presentation/d/1_-Xl0TcniaRjYuK7E8JFMekrMDM3_TLfBHAj6x61AMY/edit#slide=id.p)
-
-## Certificates & Accreditation
-
-P2PU does not officially issue any kind of accreditation or formal education certificates for participation in learning circles. Some courses offer various types of endorsement though learners often have to pay the course provider for a copy.
-A number of facilitators like to give certificates at the end of a learning circle to help promote a sense of achievement and stronger connection between the library/learning center and learner. 
-
-If you want to recognize and celebrate learners’ achievements, you can use or customize our[ ](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing)[certificate template](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing).
-
+To create DIY Flyers, use our [Digital Skill Detroit Learning Circle Promo Kit](https://docs.google.com/presentation/u/0/d/1i4h0ILYvg9l6MiCuVOljIi_-jZGWyeuMdZdx7HiMme8/edit) 
 
 **Message Templates**
 In addition to flyers and online promotion, you may want to reach out directly to your partners, neighbors, and constituents through email or social media. Below are some template messages you can use or modify to advertise your learning circle:
@@ -37,3 +29,12 @@ Are you interested in learning about [topic] but don’t want to study alone? Wh
 From [date] to [date] we’ll be meeting at [venue] to work together through a course on [subject] in a supportive, peer-based group. We won’t have a teacher—we’ll use the online course and our personal experiences to learn together.
 There are no prerequisites for the course, but access to a laptop and some experience of using the internet would be helpful.
 For more information, visit [link to website or sign-up page] or send an email to [email] for more information.
+
+## Certificates & Accreditation
+
+P2PU does not officially issue any kind of accreditation or formal education certificates for participation in learning circles. Some courses offer various types of endorsement though learners often have to pay the course provider for a copy.
+A number of facilitators like to give certificates at the end of a learning circle to help promote a sense of achievement and stronger connection between the library/learning center and learner. 
+
+If you want to recognize and celebrate learners’ achievements, you can use or customize our[ ](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing)[certificate template](https://docs.google.com/presentation/d/1dYfKZDTG5KBSzBsq6gxXxkjIDLbQD06athk3IN_I2AU/edit?usp=sharing).
+
+

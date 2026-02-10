@@ -7,4 +7,4 @@ This facilitator training is just one part of the  Empowering Detroit through Di
 
 If you are working through this guide with a group, introduce yourself to one another and share something that you learned recently. This is an important exercise to emphasize that everybody has things they want to learn, and knowledge and experiences  that they can share. Together, a group of people can learn almost anything together. 
 
-For assistance using this guide or questions, you can reach our team at thepeople@P2Pu.org
+For assistance using this guide or questions, you can reach our team at [thepeople@P2Pu.org](mailto:thepeople@P2Pu.org)
