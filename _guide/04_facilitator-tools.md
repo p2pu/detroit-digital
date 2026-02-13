@@ -24,7 +24,7 @@ To facilitate or organize learning circles, you’ll first need to create a P2PU
 The tools are hosted online and can be accessed from [www.p2pu.org](http://www.p2pu.org)
 
 [Dashboard](https://handbook.p2pu.org/tools-and-resources/tools-for-learning-circles/untitled)
-![kix.xh27d3wecnmm](assets/uploads/kix.xh27d3wecnmm.png)![kix.oybw1e4gmio](assets/uploads/kix.oybw1e4gmio.png)![kix.2gg2uigd9nmj](assets/uploads/kix.2gg2uigd9nmj.png)![kix.o3vvja6qlr1](assets/uploads/kix.o3vvja6qlr1.png)![kix.eemhqvze6yau](assets/uploads/kix.eemhqvze6yau.png)
+![kix.xh27d3wecnmm](assets/uploads/kix.xh27d3wecnmm.png)![kix.oybw1e4gmio](assets/uploads/kix.oybw1e4gmio.png)![kix.2gg2uigd9nmj](assets/uploads/kix.2gg2uigd9nmj.png)![kix.eemhqvze6yau](assets/uploads/kix.eemhqvze6yau.png)
 
 
 ## Facilitator Dashboard
