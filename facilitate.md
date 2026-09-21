@@ -9,8 +9,7 @@ welcome: |
 
     - A ready-to-use digital skills curriculum, adaptable for different skill levels
     - Training and support for facilitators
-    - Devices for participants who complete 15 hours of training
-    - Program guidance, materials, and ongoing support
+    - An ongoing community of practice
 
     ## What Host Sites Provide
 
@@ -19,9 +18,7 @@ welcome: |
     - On-site support to help welcome and engage participants
     - Staff or volunteers to facilitate the learning*
 
-    ***\*Digital Skills Detroit may be able to provide a facilitator for sites that meet all other hosting requirements.***
-
-    If you have a site and would like to have P2PU Staff facilitate please complete [this form](https://forms.gle/NCzRR5ngb5ajRhqK8).
+    ***\*Digital Skills Detroit may be able to help find a facilitator for sites that meet all other hosting requirements.***
 
     By hosting a Digital Skills Detroit learning circle, your organization helps close the digital divide while empowering community members with practical, life-changing skills.
 
